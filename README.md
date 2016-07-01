@@ -24,7 +24,9 @@ This was a group project assigned in my Computer Programming II class (Java Prog
 * When you are done playing the game, just exit out of the GUI, and that will conclude your gaming session.
 
 ##Notes
-*
+The hard mode (HardAI) was the most difficult part of this project for the two of us. We found it rather difficult to work out how  to get it to respond the correct way.
+
+
 
 
 
