@@ -26,6 +26,13 @@ This was a group project assigned in my Computer Programming II class (Java Prog
 ##Notes
 The hard mode (HardAI) was the most difficult part of this project for the two of us. We found it rather difficult to work out how  to get it to respond the correct way.
 
+This was our first coding class in Java, so along with everything ne, there are always things that we could improve on. This game called for a lot of else if statements, to check for not only letter placement, but also for win state checking. With the chance to change this game and have more time to make it better, I would add the ability to connect to a server, and play multiplayer with other player with this program on the same server.
+
+HardAI Function- When in hard game mode, has different situations for the AI according to user moves.
+EasyAI Function- When in easy game mode, has a different set of moves for the AI according to user moves.
+
+##Acknowledgements
+Joseph Moses was my partner for this Tic-Tac-Toe project.
 
 
 
